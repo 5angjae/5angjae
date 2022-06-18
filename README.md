@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=5angjaeKim&fontSize=75)
 
-<div style="display:flex; justify-content: space-between; align-items: center;">
+<div align="center" style="display:flex; justify-content: space-between; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=5angjae">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5angjae&layout=compact">
 </div>
