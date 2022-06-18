@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Sangjae Kim&fontSize=75)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=SangjaeKim&fontSize=75)
 
 ![5angjae's GitHub stats](https://github-readme-stats.vercel.app/api?username=5angjae)
 
