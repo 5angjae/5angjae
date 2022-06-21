@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=5angjaeKim&fontSize=75)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&fontAlign=70&fontAlignV=35&section=header&text=5angjaeKim&fontSize=75)
 
 <div align="center" style="display:flex; justify-content: space-between; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=5angjae">
