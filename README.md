@@ -69,5 +69,9 @@
 <div align="center">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sangjea5">
 </div>
+<h2 align="center">
+    Portfolio
+</h2>
 
+[PORTFOLIO 노션 링크](https://www.notion.so/5angjae/4ed5444803784ba8acb12761aaad7ace)
 
